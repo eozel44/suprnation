@@ -2,6 +2,8 @@
    First Solution based on spark graphx library : 
    
    There are many variations of Dijkstra’s algorithm, including versions for directed ver- sus undirected graphs. The implementation in the project is geared toward directed graphs.
+   
+   References: Spark GraphX in Action (Michael S. Malak and Robin East)
 
    Second Solution based on Colection:
     
